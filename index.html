@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script type="text/javascript" src="./dropdown.js" defer=""></script>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+    <div class="select">
+      <div id="category-select">
+        <label for="options-view-button">Categoria</label>
+        <input type="checkbox" id="options-view-button">
+
+        <div id="select-button">
+          <div id="select-value">Selecione a categoria</div>
+
+          <div id="chevrons">
+            <i data-lucide="chevron-down"></i>
+            <i data-lucide="chevron-up"></i>
+          </div>
+        </div>
+      </div>
+
+      <ul id="options">
+        <li class="option">
+          <input type="radio" name="category" value="bakery" data-label="Padaria">
+
+          <i data-lucide="sandwich"></i>
+          <span class="label">Padaria</span>
+          <i data-lucide="check"></i>
+        </li>
+
+        <li class="option">
+          <input type="radio" name="category" value="vegetable" data-label="Legume">
+
+          <i data-lucide="carrot"></i>
+          <span class="label">Legumes</span>
+          <i data-lucide="check"></i>
+        </li>
+
+        <li class="option">
+          <input type="radio" name="category" value="meat" data-label="Carne">
+
+          <i data-lucide="beef"></i>
+          <span class="label">Carnes</span>
+          <i data-lucide="check"></i>
+        </li>
+
+        <li class="option">
+          <input type="radio" name="category" value="fruit" data-label="Fruta">
+
+          <i data-lucide="apple"></i>
+          <span class="label">Frutas</span>
+          <i data-lucide="check"></i>
+        </li>
+
+        <li class="option">
+          <input type="radio" name="category" value="drink" data-label="Bebida">
+
+          <i data-lucide="milk"></i>
+          <span class="label">Bebidas</span>
+          <i data-lucide="check"></i>
+        </li>
+      </ul>
+    </div>
+
+
+    <script src="https://unpkg.com/lucide@latest"></script>
+  </body>
+
+</html>
