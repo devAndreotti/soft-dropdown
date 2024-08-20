@@ -1,4 +1,4 @@
-# Dropdown de Seleção de Categoria
+# Soft Dropdown
 
 <div align="center">
   <img src="./src/imagens/exemplo-dropdown.jpg" alt="Imagem do Dropdown" width="800" height="500"/>
@@ -6,7 +6,7 @@
 
 ## Objetivo do Projeto
 
-Este projeto consiste em criar um **dropdown de seleção de categoria** utilizando HTML, CSS e JavaScript. O dropdown permite ao usuário escolher uma categoria de uma lista, com interatividade e visualizações dinâmicas.
+Este projeto consiste em criar um **dropdown com seleção de categorias** utilizando HTML, CSS e JavaScript. O dropdown permite ao usuário escolher uma categoria de uma lista, com interatividade e visualizações dinâmicas.
 
 ## Tecnologias Empregadas
 
@@ -51,7 +51,3 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 3. Commit suas mudanças `git commit -m 'Adiciona nova feature'`.
 4. Envie para a branch `git push origin feature/nome-feature`.
 5. Abra um Pull Request.
-
-## Nota
-
-Este projeto é para fins educacionais e demonstra a criação de um componente de interface de usuário interativo. Sinta-se livre para explorar e adaptar.
