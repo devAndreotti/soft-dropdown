@@ -4,6 +4,17 @@
   <img src="./dropdown.png" alt="Dropdown Banner"/>
 </div>
 
+<p align="center">
+  <!-- Contador de linguagens do GitHub -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Languages" >
+  <!-- Tamanho do repositório no GitHub -->
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Size" >
+  <!-- Último commit no GitHub -->
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Last%20Commit" >
+  <!-- Licença do GitHub -->
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=License" >
+</p>
+
 ## Objetivo do Projeto
 
 Este projeto consiste em criar um **dropdown com seleção de categorias** utilizando HTML, CSS e JavaScript. O dropdown permite ao usuário escolher uma categoria de uma lista, com interatividade e visualizações dinâmicas.
