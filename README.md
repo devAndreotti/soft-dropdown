@@ -1,9 +1,5 @@
 # Soft Dropdown
 
-<div align="center">
-  <img src="./dropdown.png" alt="Dropdown Banner"/>
-</div>
-
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Languages" >
@@ -14,6 +10,10 @@
   <!-- Licença do GitHub -->
   <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=License" >
 </p>
+
+<div align="center">
+  <img src="./dropdown.png" alt="Dropdown Banner"/>
+</div>
 
 ## Objetivo do Projeto
 
