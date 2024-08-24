@@ -8,7 +8,7 @@
   <!-- Último commit no GitHub -->
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Last%20Commit" >
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown/LICENSE?color=FFF&labelColor=8E44AD&style=flat-square&label=License" >
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown/blob/main/LICENSE?color=FFF&labelColor=8E44AD&style=flat-square&label=License" >
 </p>
 
 <div align="center">
