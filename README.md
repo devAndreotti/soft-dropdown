@@ -2,13 +2,13 @@
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Languages" >
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square" >
   <!-- Tamanho do repositório no GitHub -->
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Size" >
   <!-- Último commit no GitHub -->
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=Last%20Commit" >
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square&label=License" >
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square" >
 </p>
 
 <div align="center">
