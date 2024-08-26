@@ -57,9 +57,6 @@ Confira o projeto online através deste [link](https://devandreotti.github.io/so
 3. **Instale as Dependências**
    - O projeto utiliza a biblioteca de ícones Lucide via CDN, portanto, não há necessidade de instalar dependências adicionais.
 
-4. **Personalize o CSS e JS conforme Necessário**
-   - Ajuste o estilo e a funcionalidade do dropdown editando os arquivos `style.css` e `dropdown.js`.
-
 ## 💪 Como Contribuir
 
 Contribuições são bem-vindas! Siga estas etapas para colaborar:
