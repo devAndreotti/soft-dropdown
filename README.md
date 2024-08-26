@@ -2,13 +2,13 @@
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square" >
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/soft-dropdown?color=FFF&labelColor=635184&style=flat-square" >
   <!-- Tamanho do repositório no GitHub -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square" >
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/soft-dropdown?color=FFF&labelColor=635184&style=flat-square" >
   <!-- Último commit no GitHub -->
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square" >
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/soft-dropdown?color=FFF&labelColor=635184&style=flat-square" >
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square" >
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown?color=FFF&labelColor=635184&style=flat-square" >
 </p>
 
 <div align="center">
@@ -17,28 +17,32 @@
 
 ## 🎯 Objetivo do Projeto
 
-Este projeto consiste em criar um **dropdown com seleção de categorias** utilizando HTML, CSS e JavaScript. O dropdown permite ao usuário escolher uma categoria de uma lista, com interatividade e visualizações dinâmicas.
+O **Soft Dropdown** é um projeto desenvolvido com HTML, CSS e JavaScript, que tem como objetivo criar um dropdown interativo para seleção de categorias. Ele permite que o usuário selecione uma categoria de uma lista pré-definida, oferecendo uma experiência dinâmica e fluida.
 
 ## ⚙️ Como Funciona
 
-- **Interatividade**: O dropdown exibe uma lista de categorias quando o botão de seleção é clicado. A categoria selecionada é exibida no botão.
-- **Estilo**: Utiliza CSS para criar um design moderno e responsivo.
-- **JavaScript**: Controla a lógica de exibição e a seleção de opções.
+- **Interatividade Inteligente**: Ao clicar no botão de seleção, o dropdown exibe uma lista de categorias. Quando uma categoria é escolhida, ela aparece como a opção selecionada, e o dropdown se fecha automaticamente para melhorar a usabilidade.
+- **Estilo Responsivo**: Utiliza CSS para garantir que o design seja moderno, atraente e adaptável a diferentes tamanhos de tela.
+- **Controle via JavaScript**: A lógica do dropdown é gerenciada por JavaScript, que cuida da exibição, seleção e acessibilidade do componente.
+
+## 💻 Acessibilidade e Assistência
+
+O **Soft Dropdown** foi projetado com acessibilidade em mente. Ele suporta navegação via teclado, permitindo que usuários possam abrir e fechar o dropdown usando as teclas `Escape` e espaço. Além disso, o foco automático na opção selecionada facilita o uso para pessoas com deficiências visuais ou motoras, garantindo uma experiência inclusiva para todos os usuários.
 
 ## 🔍 Visualize o Projeto
 
-Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/soft-dropdown/).
+Confira o projeto online através deste [link](https://devandreotti.github.io/soft-dropdown/).
 
-## 🛠 Tecnologias Empregadas
+## 🛠 Tecnologias Utilizadas
 
-- **HTML5**: Estrutura da aplicação e definição dos elementos do dropdown.
-- **CSS3**: Estilos e animações para criar um design responsivo e atraente.
-- **JavaScript**: Lógica para gerenciar a interação do dropdown e manipular a DOM.
-- **Lucide Icons**: Biblioteca de ícones utilizada para melhorar a interface.
+- **HTML5**: Base estrutural do dropdown e seus elementos.
+- **CSS3**: Criação de um design responsivo com animações suaves.
+- **JavaScript**: Implementação da lógica de interação do dropdown.
+- **Lucide Icons**: Biblioteca utilizada para aprimorar a interface com ícones.
 
 ## 📚 Recursos Úteis
 
-- [Lucide Icons](https://lucide.dev) - Biblioteca de ícones usada no projeto.
+- [Lucide Icons](https://lucide.dev) - Biblioteca de ícones utilizada no projeto.
 
 ## 🧭 Guia de Implementação
 
@@ -52,21 +56,21 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
    - Abra o arquivo `index.html` em um navegador.
 
 3. **Instale as Dependências**
-   - O projeto utiliza a biblioteca de ícones Lucide via CDN, portanto, não é necessário instalar dependências adicionais.
+   - O projeto utiliza a biblioteca de ícones Lucide via CDN, portanto, não há necessidade de instalar dependências adicionais.
 
-4. **Modifique o CSS e JS conforme Necessário**
-   - Personalize o estilo e o comportamento do dropdown editando `style.css` e `dropdown.js`.
+4. **Personalize o CSS e JS conforme Necessário**
+   - Ajuste o estilo e a funcionalidade do dropdown editando os arquivos `style.css` e `dropdown.js`.
 
-## 💪 Contribuição
+## 💪 Como Contribuir
 
-Contribuições são bem-vindas! Para contribuir, siga estas etapas:
+Contribuições são bem-vindas! Siga estas etapas para colaborar:
 
 1. Faça um fork do projeto.
-2. Crie uma nova branch para sua feature `git checkout -b feature/nome-feature`.
-3. Commit suas mudanças `git commit -m 'Adiciona nova feature'`.
-4. Envie para a branch `git push origin feature/nome-feature`.
+2. Crie uma nova branch para sua feature: `git checkout -b feature/nome-feature`.
+3. Commit suas mudanças: `git commit -m 'Adiciona nova feature'`.
+4. Envie para a branch: `git push origin feature/nome-feature`.
 5. Abra um Pull Request.
 
 ## 📝 Nota
 
-Este projeto foi feito em uma aula da **Rocket Seat**. Sinta-se livre para explorar e adaptar.
+Este projeto foi desenvolvido durante uma aula da **Rocketseat**. Fique à vontade para explorar, adaptar e expandir o que foi criado.
