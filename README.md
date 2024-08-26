@@ -15,7 +15,7 @@
   <img src="./dropdown.png" alt="Dropdown Banner"/>
 </div>
 
-## 💻 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Este projeto consiste em criar um **dropdown com seleção de categorias** utilizando HTML, CSS e JavaScript. O dropdown permite ao usuário escolher uma categoria de uma lista, com interatividade e visualizações dinâmicas.
 
@@ -25,7 +25,7 @@ Este projeto consiste em criar um **dropdown com seleção de categorias** utili
 - **Estilo**: Utiliza CSS para criar um design moderno e responsivo.
 - **JavaScript**: Controla a lógica de exibição e a seleção de opções.
 
-## Visualize o Projeto
+## 🔍 Visualize o Projeto
 
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/soft-dropdown/).
 
@@ -36,7 +36,7 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 - **JavaScript**: Lógica para gerenciar a interação do dropdown e manipular a DOM.
 - **Lucide Icons**: Biblioteca de ícones utilizada para melhorar a interface.
 
-## Recursos Úteis
+## 📚 Recursos Úteis
 
 - [Lucide Icons](https://lucide.dev) - Biblioteca de ícones usada no projeto.
 
