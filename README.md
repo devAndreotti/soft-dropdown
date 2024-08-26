@@ -15,11 +15,11 @@
   <img src="./dropdown.png" alt="Dropdown Banner"/>
 </div>
 
-## Objetivo do Projeto
+## 💻 Objetivo do Projeto
 
 Este projeto consiste em criar um **dropdown com seleção de categorias** utilizando HTML, CSS e JavaScript. O dropdown permite ao usuário escolher uma categoria de uma lista, com interatividade e visualizações dinâmicas.
 
-## Como Funciona
+## ⚙️ Como Funciona
 
 - **Interatividade**: O dropdown exibe uma lista de categorias quando o botão de seleção é clicado. A categoria selecionada é exibida no botão.
 - **Estilo**: Utiliza CSS para criar um design moderno e responsivo.
@@ -29,7 +29,7 @@ Este projeto consiste em criar um **dropdown com seleção de categorias** utili
 
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/soft-dropdown/).
 
-## Tecnologias Empregadas
+## 🛠 Tecnologias Empregadas
 
 - **HTML5**: Estrutura da aplicação e definição dos elementos do dropdown.
 - **CSS3**: Estilos e animações para criar um design responsivo e atraente.
@@ -40,7 +40,7 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 
 - [Lucide Icons](https://lucide.dev) - Biblioteca de ícones usada no projeto.
 
-## Guia de Implementação
+## 🧭 Guia de Implementação
 
 1. **Clone o Repositório**
    ```bash
@@ -57,7 +57,7 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 4. **Modifique o CSS e JS conforme Necessário**
    - Personalize o estilo e o comportamento do dropdown editando `style.css` e `dropdown.js`.
 
-## Contribuição
+## 💪 Contribuição
 
 Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
@@ -67,6 +67,6 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 4. Envie para a branch `git push origin feature/nome-feature`.
 5. Abra um Pull Request.
 
-## Nota
+## 📝 Nota
 
 Este projeto foi feito em uma aula da **Rocket Seat**. Sinta-se livre para explorar e adaptar.
