@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="./dropdown.png" alt="Dropdown Banner"/>
+  <img src="./drop.png" alt="Dropdown Banner"/>
 </div>
 
 ## 🎯 Objetivo do Projeto
