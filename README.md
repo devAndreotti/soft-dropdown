@@ -6,8 +6,6 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/soft-dropdown?color=FFF&labelColor=635184&style=flat-square">
   <!-- Tamanho do repositório no GitHub -->
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/soft-dropdown?color=FFF&labelColor=635184&style=flat-square">
-  <!-- Último commit no GitHub -->
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/soft-dropdown?color=FFF&labelColor=635184&style=flat-square">
   <!-- Licença do GitHub -->
   <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=635184&style=flat-square">
 </p>
@@ -26,7 +24,7 @@ O **Soft Dropdown** é um projeto desenvolvido com HTML, CSS e JavaScript, que t
 - **Estilo Responsivo**: O design é moderno e adaptável a diferentes dispositivos.
 - **Controle JavaScript**: Gerencia a exibição, seleção e acessibilidade do componente.
 
-## 💻 Acessibilidade e Assistência
+## 💻 Acessibilidade
 
 O **Soft Dropdown** foi projetado com acessibilidade em mente. Ele suporta navegação via teclado, permitindo que usuários possam abrir e fechar o dropdown usando as teclas `Escape` e espaço. Além disso, o foco automático na opção selecionada facilita o uso para pessoas com deficiências visuais ou motoras, garantindo uma experiência inclusiva para todos os usuários.
 
