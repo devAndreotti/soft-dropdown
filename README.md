@@ -15,6 +15,8 @@
   <img src="./dropdown.png" alt="Dropdown Banner"/>
 </div>
 
+#
+
 ## 🎯 Objetivo do Projeto
 
 Este projeto consiste em criar um **dropdown com seleção de categorias** utilizando HTML, CSS e JavaScript. O dropdown permite ao usuário escolher uma categoria de uma lista, com interatividade e visualizações dinâmicas.
