@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Soft Dropdown
+# 🔽 Soft Dropdown
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
