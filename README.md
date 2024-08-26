@@ -21,9 +21,9 @@ O **Soft Dropdown** é um projeto desenvolvido com HTML, CSS e JavaScript, que t
 
 ## ⚙️ Como Funciona
 
-- **Interatividade Inteligente**: Ao clicar no botão de seleção, o dropdown exibe uma lista de categorias. Quando uma categoria é escolhida, ela aparece como a opção selecionada, e o dropdown se fecha automaticamente para melhorar a usabilidade.
-- **Estilo Responsivo**: Utiliza CSS para garantir que o design seja moderno, atraente e adaptável a diferentes tamanhos de tela.
-- **Controle via JavaScript**: A lógica do dropdown é gerenciada por JavaScript, que cuida da exibição, seleção e acessibilidade do componente.
+- **Interatividade**: O dropdown exibe e seleciona categorias de forma dinâmica, fechando automaticamente após a escolha.
+- **Estilo Responsivo**: O design é moderno e adaptável a diferentes dispositivos.
+- **Controle JavaScript**: Gerencia a exibição, seleção e acessibilidade do componente.
 
 ## 💻 Acessibilidade e Assistência
 
