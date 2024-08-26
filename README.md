@@ -11,8 +11,6 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/soft-dropdown?color=FFF&labelColor=8E44AD&style=flat-square" >
 </p>
 
-#
-
 <div align="center">
   <img src="./dropdown.png" alt="Dropdown Banner"/>
 </div>
