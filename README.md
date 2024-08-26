@@ -1,3 +1,4 @@
+<!-- Projeto Finalizado -->
 # Soft Dropdown
 
 <p align="center">
