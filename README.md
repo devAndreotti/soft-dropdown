@@ -28,8 +28,8 @@ O **Soft Dropdown** foi projetado com acessibilidade em mente. Ele suporta naveg
 Confira o projeto online através deste [link](https://devandreotti.github.io/soft-dropdown/).
 
 ## 🛠 Tecnologias Utilizadas
-- **HTML5**: Base estrutural do dropdown e seus elementos.
-- **CSS3**: Criação de um design responsivo com animações suaves.
+- **HTML**: Base estrutural do dropdown e seus elementos.
+- **CSS**: Criação de um design responsivo com animações suaves.
 - **JavaScript**: Implementação da lógica de interação do dropdown.
 - **Lucide Icons**: Biblioteca utilizada para aprimorar a interface com ícones.
 
@@ -54,3 +54,8 @@ Contribuições são bem-vindas! Siga estas etapas para colaborar:
 
 ## 📝 Nota
 Este projeto foi desenvolvido durante uma aula da **Rocketseat**. Fique à vontade para explorar, adaptar e expandir o que foi criado.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
