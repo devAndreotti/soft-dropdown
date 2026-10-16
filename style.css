@@ -23,6 +23,12 @@
   padding: 6rem;
 }
 
+@media (max-width: 40rem) {
+  .select {
+    padding: 1.5rem;
+  }
+}
+
 #category-select label {
   font-size: 0.75rem;
   letter-spacing: 0.0225rem;
